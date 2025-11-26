@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "WallStreet Future pro",
   "VITE_SEO_SITE_DESCRIPTION": "There is new horizon for the trading.",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/wallstreet-pro-9786/",
+  "VITE_SEO_SITE_URL": "https://wallstreetprotrade.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
